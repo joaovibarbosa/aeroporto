@@ -31,5 +31,6 @@ insert into users(user, password, nameuser, compAerea, situacao, perfil) values 
 
 
 
+
 select * from users;
 
